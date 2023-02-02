@@ -5,7 +5,7 @@
 It is essentially a [**CRUD**](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) **application**  that was created using the 
 [**MVC**](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) **architecture**. 
 A list of the students in this project can be modified, allowing for the addition, deletion, or updating of a student. 
-A demo of each function is provided in the section below under [Demo](#demo). Install all [dependecies](#dependencies) for development.
+A demo of each function is provided in the section below under Demo. Install all [dependecies](#dependencies) for development.
 
 ## Technologies used
 
