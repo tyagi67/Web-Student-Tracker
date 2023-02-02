@@ -22,6 +22,6 @@ A demo of each function is provided in the section below under Demo. Install all
 4. [JDBC connector](https://dev.mysql.com/downloads/connector/j/5.1.html)
 5. [Apache Tomcat](https://tomcat.apache.org/download-80.cgi)
 
-## Demo gif
+## Demo
 
 ![Demo gif](https://github.com/tyagi67/Web-Student-Tracker/blob/main/demoVideo.gif)
