@@ -24,4 +24,4 @@ A demo of each function is provided in the section below under Demo. Install all
 
 ## Demo
 
-![Demo gif](https://github.com/tyagi67/Web-Student-Tracker/blob/main/demoVideo.gif)
+![Demo gif](https://github.com/tyagi67/Web-Student-Tracker/blob/main/demo.gif)
